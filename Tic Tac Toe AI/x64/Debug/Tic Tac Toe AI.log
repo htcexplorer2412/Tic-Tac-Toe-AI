@@ -1,3 +1,4 @@
 ﻿  main.cpp
-D:\C++ programming\Tic Tac Toe AI\Tic Tac Toe AI\main.cpp(48,1): warning C4715: 'colRowChecker': not all control paths return a value
+D:\C++ programming\Tic Tac Toe AI\Tic Tac Toe AI\main.cpp(143,6): warning C4551: function call missing argument list
+D:\C++ programming\Tic Tac Toe AI\Tic Tac Toe AI\main.cpp(124,1): warning C4715: 'gameStateChecker': not all control paths return a value
   Tic Tac Toe AI.vcxproj -> D:\C++ programming\Tic Tac Toe AI\x64\Debug\Tic Tac Toe AI.exe
